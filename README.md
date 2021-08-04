@@ -428,3 +428,13 @@ Performs an equivilant of a left outer join operation between two collections
 
 ### Outputs:
 * Collection Out - Collection
+
+## Reorder Columns
+Reorders columns in a target collection based on CSV input of column names
+
+### Inputs:
+* Column Order CSV - Text
+* Source Collection - Collection
+
+### Outputs:
+* Reordered Collection - Collection
