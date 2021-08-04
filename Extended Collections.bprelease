@@ -443,7 +443,7 @@ foreach(string colName in colNames)
 	colIndex++;
 }
 
-Col_Out = SourceCol.Clone();]]></code></stage></process></object>
+Col_Out = SourceCol;]]></code></stage></process></object>
         <object-group id="73a384f5-0859-4fd2-8fb2-bc7e89098469" name="Nephthis" isDefaultGroup="False" xmlns="http://www.blueprism.co.uk/product/object-group">
             <members>
                 <object id="13fedeea-b8cb-4c64-b4f7-59d2de7d9b65" />
